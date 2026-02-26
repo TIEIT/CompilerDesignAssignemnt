@@ -1,0 +1,17 @@
+﻿Compiler Design Assignment - Lexical Analysis
+
+Student Name: Arpit Rathore
+Roll Number: 0114CS231023
+
+System Configuration:
+OS: Windows 11
+Compiler: g++ (MinGW)
+CPU: 4 cores
+
+Sequential Execution Time: 1.85 sec
+Concurrent Execution Time: 1.05 sec
+
+Speedup Achieved: 1.76x
+
+Conclusion:
+Concurrent lexical analysis improved performance compared to sequential implementation.
